@@ -2,6 +2,8 @@
 
 Hello, my name is Oleksandr Starnikov but friends call me Shonie.
 
+Currently, I am a Technical Lead at [Rio ESG Ltd](https://www.rio.ai/) where we advance sustainability tech for better futures. But will be keen to help you to design and deploy your cloud solution because this area interests now me the most.
+
 I have 8 years of experience developing client and server applications, cloud infrastructure, and database schemas. I worked in product companies, outsourcing, and startups.
 
 My top competencies are:
