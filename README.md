@@ -1,6 +1,8 @@
-### My name is Oleksandr but friends call me Shonie 👋
+### About
 
-Have 8 years of experience developing client and server applications, cloud infrastructure, and database schemas. Worked in product companies, outsourcing, and startups.
+Hello, my name is Oleksandr Starnikov but friends call me Shonie.
+
+I have 8 years of experience developing client and server applications, cloud infrastructure, and database schemas. I worked in product companies, outsourcing, and startups.
 
 My top competencies are:
 
