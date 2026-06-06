@@ -14,7 +14,7 @@ My top competencies are:
 
 - 🔭 Currently working on a redesign of [sustainability.rio.ai](https://sustainability.rio.ai/v2/)
 - 🐙 Full-stack developer since 2016
-- 👷 I am certified [AWS Solutions Architect Pro](https://www.credly.com/badges/14d95050-872f-4896-8c61-a212712c2177/public_url)
+- 👷 I am a certified [AWS Solutions Architect Pro](https://www.credly.com/badges/14d95050-872f-4896-8c61-a212712c2177/public_url)
 - 📫 Contact me via contact@shonie.dev
 
 
