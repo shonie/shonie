@@ -2,21 +2,20 @@
 
 Hello, my name is Oleksandr Starnikov but friends call me Shonie.
 
-Currently, I am a Technical Architect at [Rio ESG Ltd](https://www.rio.ai/) where we advance sustainability tech for better futures. But will be keen to help you to design and deploy your cloud solution because this area interests me now the most.
+I'm a **solution architect** with a decade of experience designing and building advanced B2B systems end-to-end — across cloud infrastructure, data engineering, and web application development. I currently operate as an **independent contractor**, providing remote software architecture and engineering services, while remaining open to long-term contracts and full-time roles.
 
-I have 10 years of experience developing client and server applications, cloud infrastructure, and database schemas. I worked in product companies, outsourcing, and startups.
+Most recently I've been technical lead / architect at [Rio AI](https://www.rio.ai/), working on cloud data platforms and AI-driven developer tooling.
+
+🌐 Portfolio &amp; CV → **[shonie.dev](https://shonie.dev)**
 
 My top competencies are:
 
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=plastic) ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic) ![AWS Lambda Badge](https://img.shields.io/badge/AWS%20Lambda-F90?logo=awslambda&logoColor=fff&style=plastic) ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic) ![Snowflake Badge](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff&style=plastic) ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=plastic)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=plastic) ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=plastic) ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic) ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=fff&style=plastic) ![Terraform Badge](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=plastic) ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=plastic) ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=plastic) ![Snowflake Badge](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff&style=plastic) ![Amazon Redshift Badge](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazonredshift&logoColor=fff&style=plastic) ![AI Badge](https://img.shields.io/badge/%F0%9F%AA%84%20AI-8A2BE2?style=plastic)
 
 ---  
 
-- 🔭 Currently working on a redesign of [sustainability.rio.ai](https://sustainability.rio.ai/v2/)
+- 🏗️ Solution architect &amp; independent contractor — available for remote work
 - 🐙 Full-stack developer since 2016
-- 👷 I am a certified [AWS Solutions Architect Pro](https://www.credly.com/badges/14d95050-872f-4896-8c61-a212712c2177/public_url)
-- 📫 Contact me via contact@shonie.dev
-
-
-
-
+- 👷 Certified [AWS Solutions Architect Professional](https://www.credly.com/badges/14d95050-872f-4896-8c61-a212712c2177/public_url)
+- 🤖 Building AI-driven workflows and data platforms on AWS
+- 📫 Reach me at contact@shonie.dev · [LinkedIn](https://linkedin.com/in/shonie)
